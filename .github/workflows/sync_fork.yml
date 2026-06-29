@@ -1,7 +1,8 @@
 name: Fork Sync
 
 permissions:
-  contents: write
+  contents: write      # 推送代码需要
+  workflows: write     # 更新 workflow 文件需要
 
 on:
   schedule:
