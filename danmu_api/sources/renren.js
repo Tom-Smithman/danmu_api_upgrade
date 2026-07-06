@@ -55,7 +55,7 @@ export default class RenrenSource extends BaseSource {
     // TV 端特征配置
     TV_HOST: "api.gorafie.com",
     TV_DANMU_HOST: "static-dm.qwdjapp.com",
-    TV_VERSION: "1.2.2",
+    TV_VERSION: "2.0.0",
     TV_USER_AGENT: 'okhttp/3.12.13',
     TV_CLIENT_TYPE: 'android_qwtv_RRSP',
     TV_PKT: 'rrmj',
